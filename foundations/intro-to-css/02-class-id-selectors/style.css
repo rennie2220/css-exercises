@@ -1,4 +1,9 @@
 /* Add CSS Styling */
 .alert-text {
     background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+
+#title {
+    color: blue;
 }
