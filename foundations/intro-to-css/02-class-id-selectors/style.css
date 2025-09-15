@@ -1,10 +1,22 @@
 /* Add CSS Styling */
-.alert-text {
-    background-color: pink;
-    font-family: Verdana, sans-serif;
+.odd {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+
 }
 
-#title {
-    color: blue;
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 0, 255);
     font-size: 36px;
+}
+
+
+
+#four {
+    background-color: green;
+    font-weight: bold;
 }
